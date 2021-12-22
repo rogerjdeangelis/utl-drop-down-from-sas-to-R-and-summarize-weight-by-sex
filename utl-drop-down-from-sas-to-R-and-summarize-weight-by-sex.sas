@@ -1,7 +1,11 @@
 %let pgm=utl-drop-down-from-sas-to-R-and-summarize-weight-by-sex;
 
 Summarize weights in sashelp.class using SAS nad R integration
-
+                                                                                            
+github                                                                                      
+https://tinyurl.com/36fd6d2n                                                                
+https://github.com/rogerjdeangelis/utl-drop-down-from-sas-to-R-and-summarize-weight-by-sex  
+                                                                                                                                                                                      
 git Hup related
 https://github.com/rogerjdeangelis?tab=repositories&q=+drop+down&type=&language=&sort=
 
