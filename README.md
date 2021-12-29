@@ -36,7 +36,7 @@ Summarize weights in sashelp.class using SAS nad R integration
             |_|
     */
 
-    * cioy sashelp.class to local drive;
+    * copy sashelp.class to local drive;
     libname sd1 "c:/sd1";
     options validvarname=upcase;
 
